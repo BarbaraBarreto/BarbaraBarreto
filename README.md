@@ -1,7 +1,7 @@
-### Oii eu sou Bárbara Barreto
+### Oii eu sou Bárbara Barreto 👋
 
-- 💻 Trabalho com desenvolvimento Full Stack 
 - 📖 Estudando C# e JavaScript
+##
 
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
