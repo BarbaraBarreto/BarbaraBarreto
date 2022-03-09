@@ -1,4 +1,4 @@
-### Oii eu sou Bárbara Barreto 👋
+### Bárbara Barreto 👋
 
 - 📖 5° Período em Análise e Desenvolvimento de Sistemas
 - 💻Trabalho com Desenvolvimento Full Stack
