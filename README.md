@@ -1,6 +1,7 @@
 ### Oii eu sou Bárbara Barreto 👋
 
 - 📖 5° Período em Análise e Desenvolvimento de Sistemas
+- 💻Trabalho com Desenvolvimento Full Stack
 - 📖 Estudando C# e JavaScript
 ##
 
