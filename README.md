@@ -2,7 +2,7 @@
 - 📖 Estudando C# e JavaScript
 - 💻Trabalho com Desenvolvimento Full Stack
 - 📘 5° Período em Análise e Desenvolvimento de Sistemas
-##
+##aaaaaaaaaa
 
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
