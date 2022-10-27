@@ -1,4 +1,3 @@
-
 ### Bárbara Barreto 👋
 - 📖 Estudando C# e JavaScript
 - 💻Trabalho com Desenvolvimento Full Stack
