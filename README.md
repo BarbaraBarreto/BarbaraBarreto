@@ -1,8 +1,8 @@
 ### Bárbara Barreto 👋
 - 📖 Estudando C# e JavaScript
 - 💻Trabalho com Desenvolvimento Full Stack
-- 📘 6° Período em Análise e Desenvolvimento de Sistemassssssssss
-##ssss
+- 📘 6° Período em Análise e Desenvolvimento de Sistemas
+##
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
