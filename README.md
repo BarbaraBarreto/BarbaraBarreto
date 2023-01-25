@@ -2,6 +2,9 @@
 
 
 
+
+
+
 - 📖 Estudando C# e JavaScript
 - 💻Trabalho com Desenvolvimento Full Stack
 - 📘 6° Período em Análise e Desenvolvimento de Sistemas
