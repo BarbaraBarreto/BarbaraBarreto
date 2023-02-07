@@ -1,7 +1,7 @@
 ### Bárbara Barreto 👋
 - 📖 Estudando C# e JavaScript
 - 💻Trabalho com Desenvolvimento Full Stack
-- 📘 6° Período em Análise e Desenvolvimento de Sistemasss
+- 📘 6° Período em Análise e Desenvolvimento de Sistemass
 ##
 
 <div align="center">
