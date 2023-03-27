@@ -1,5 +1,5 @@
 ### Bárbara Barreto 👋
-- 📖 Estudando C# e JavaScriptsa
+- 📖 Estudando C# e JavaScriptsaaa
 - 💻Trabalho com Desenvolvimento Full Stack
 - 📘 Formada em Análise e Desenvolvimento de Sistemas
 ##
