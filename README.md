@@ -2,7 +2,7 @@
 - 📖 Estudante C# e JavaScript
 - 💻Trabalho com Desenvolvimento Full Stack
 - 📘 Formada em Análise e Desenvolvimento de Sistemas
-##
+##sssss
 
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
