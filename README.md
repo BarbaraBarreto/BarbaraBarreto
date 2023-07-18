@@ -1,6 +1,6 @@
 ### Bárbara Barreto 👋
 - 📖 Estudante C# e JavaScript
-- 💻Trabalho com Desenvolvimento Full Stack
+- 💻Trabalho com Desenvolvimento Full Stackssss
 - 📘 Formada em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
