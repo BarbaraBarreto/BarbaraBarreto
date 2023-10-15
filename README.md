@@ -1,5 +1,5 @@
 ### Bárbara Barreto 👋
-- 💻Trabalho com Desenvolvimento de banco de dadossss
+- 💻Trabalho com Desenvolvimento de banco de dados
 - 📘 Formada em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
