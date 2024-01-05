@@ -1,4 +1,4 @@
-sss### Bárbara Barreto 👋
+### Bárbara Barreto 👋
 - 💻Trabalho com Desenvolvimento de banco de dados
 - 📘 Formada em Análise e Desenvolvimento de Sistemas
 <div align="center">
