@@ -41,5 +41,6 @@
 </a>
   
 <a href="https://www.linkedin.com/in/barbara-barreto-725312185/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" height="70">
+    <img src="https://img.icons8.com/ios/452/linkedin.png" width="70" height="70">
 </a>
+
