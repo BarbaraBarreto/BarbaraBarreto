@@ -7,7 +7,12 @@
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBarreto&layout=compact&langs_count=7&theme=react&card_width=400&hide=html,css&count_private=true"/>
+  ## 🚀 **Minhas Linguagens e Tecnologias**
+- **Python** 🐍
+- **SQL** 🗄️
+- **PostgreSQL** 🟦
+- **Pandas** 📊
+- **Power BI** 📈
 </div>
 
 ## 🛠️ **Habilidades Técnicas**
