@@ -5,10 +5,15 @@
 📊 Dados   
 
 <div align="center">
+  <!-- Gráfico de contribuições do GitHub -->
   <a href="https://github.com/BarbaraBarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" alt="Barbara-pic" 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
+  <!-- Imagem da boneca ao lado do gráfico -->
+  <img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" 
+       alt="Barbara-pic" 
+       width="180" 
+       style="border-radius: 50px; margin-left: 20px;">
 </div>
 
 ## 🛠️ **Habilidades Técnicas**
@@ -34,5 +39,3 @@
   <a href = "mailto:bbarretobarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbara-barreto-725312185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
----
