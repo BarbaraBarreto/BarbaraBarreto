@@ -18,7 +18,7 @@
   <img align="center" alt="Barbara-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Barbara-PowerBI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 <div align="right">
-  <img src="https://i.picasion.com/pic92/0cec97dd9bb22f3429d618e606ab4e45.gif" 
+  <img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" 
        alt="Barbara-pic" 
        width="180" 
        style="border-radius: 50px;">
