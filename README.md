@@ -37,7 +37,7 @@
 ## 📫 **Contato**
 <div> 
 <a href="mailto:bbarretobarros@gmail.com">
-    <img src="https://i.pinimg.com/originals/eb/f7/cc/ebf7cc21229288b44e2ea12446a90bba.gif" width="70" height="70">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png" width="70" height="70">
 </a>
   
 <a href="https://www.linkedin.com/in/barbara-barreto-725312185/">
