@@ -1,4 +1,9 @@
-### 👋 Olá! Eu sou Bárbara Barreto  
+### 👋 Olá! Eu sou Bárbara Barreto    
+<img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" 
+       alt="Barbara-pic" 
+       width="180" 
+       style="border-radius: 50px;">
+</div>
 
 💾 **Analista de Banco de Dados | Python para Análise de Dados**  
 📘 Formada em Análise e Desenvolvimento de Sistemas  
@@ -18,11 +23,6 @@
   <img align="center" alt="Barbara-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Barbara-PowerBI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 <div align="right">
-  <img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" 
-       alt="Barbara-pic" 
-       width="180" 
-       style="border-radius: 50px;">
-</div>
 </div>
 
 ---
