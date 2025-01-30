@@ -37,7 +37,7 @@
 ## 📫 **Contato**
 <div> 
 <a href="mailto:bbarretobarros@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" height="70">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Gmail_Logo_2023.svg" width="70" height="70">
 </a>
   
 <a href="https://www.linkedin.com/in/rsacenss/](https://www.linkedin.com/in/barbara-barreto-725312185/">
