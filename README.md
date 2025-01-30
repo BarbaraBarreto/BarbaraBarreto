@@ -1,9 +1,4 @@
 ### 👋 Olá! Eu sou Bárbara Barreto    
-<img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" 
-       alt="Barbara-pic" 
-       width="180" 
-       style="border-radius: 50px;">
-</div>
 
 💾 **Analista de Banco de Dados | Python para Análise de Dados**  
 📘 Formada em Análise e Desenvolvimento de Sistemas  
@@ -12,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBarreto&layout=compact&langs_count=7&theme=react"/>
+  </a>
 </div>
 
 ## 🛠️ **Habilidades Técnicas**
@@ -22,7 +17,6 @@
   <img align="center" alt="Barbara-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Barbara-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Barbara-PowerBI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-<div align="right">
 </div>
 
 ---
@@ -39,3 +33,11 @@
   <a href = "mailto:bbarretobarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbara-barreto-725312185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+---
+
+### Aqui está a imagem da boneca:
+<img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" 
+       alt="Barbara-pic" 
+       width="180" 
+       style="border-radius: 50px;">
