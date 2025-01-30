@@ -16,8 +16,8 @@
   <img align="center" alt="Barbara-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Barbara-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Barbara-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Barbara-Excel" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019–present%29.svg">
   <img align="center" alt="Barbara-PowerBI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="right" alt="Barbara-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/0cec97dd9bb22f3429d618e606ab4e45.gif"> 
 </div>
 
 ---
@@ -34,5 +34,3 @@
   <a href="mailto:bbarretobarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbara-barreto-725312185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/BarbaraBarreto/BarbaraBarreto/blob/output/github-contribution-grid-snake.svg)
