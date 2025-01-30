@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" alt="Barbara-pic" 
   </a>
 </div>
 
@@ -35,9 +36,3 @@
 </div>
 
 ---
-
-### Aqui está a imagem da boneca:
-<img src="https://i.picasion.com/pic92/0f2890a056db3ac0f32b766a6362bd2d.gif" 
-       alt="Barbara-pic" 
-       width="180" 
-       style="border-radius: 50px;">
