@@ -2,17 +2,12 @@
 
 💾 **Analista de Banco de Dados | Python para Análise de Dados**  
 📘 Formada em Análise e Desenvolvimento de Sistemas  
-📊 Apaixonada por transformar dados em insights estratégicos!  
+📊 Dados   
 
 <div align="center">
   <a href="https://github.com/BarbaraBarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  ## 🚀 **Minhas Linguagens e Tecnologias**
-- **Python** 🐍
-- **SQL** 🗄️
-- **PostgreSQL** 🟦
-- **Pandas** 📊
-- **Power BI** 📈
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBarreto&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ## 🛠️ **Habilidades Técnicas**
@@ -43,4 +38,4 @@
 <div> 
   <a href="mailto:bbarretobarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbara-barreto-725312185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div> == esse é meu perfil no github, tem como nessa parte <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBarreto&layout=compact&langs_count=7&theme=react"/>
