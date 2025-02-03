@@ -1,8 +1,9 @@
 ### 👋 Olá! Eu sou Bárbara Barreto    
 
 💾 **Analista de Banco de Dados | Python para Análise de Dados**  
-📘 Formada em Análise e Desenvolvimento de Sistemas
-📊 Dados   
+📘 Formada em Análise e Desenvolvimento de Sistemas  
+📊 Dados
+  
 
 <div align="center">
   <!-- Gráfico de contribuições do GitHub -->
