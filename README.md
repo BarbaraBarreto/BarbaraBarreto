@@ -1,4 +1,4 @@
-💾 **Analista de Banco de Dados | Python para Análise de Dados**  
+💾 **Analista de Banco de Dados | Python para Análise de Dadosss**  
 📘 Formada em Análise e Desenvolvimento de Sistemas<br>
 📊 Dados
   
