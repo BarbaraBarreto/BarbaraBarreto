@@ -1,5 +1,5 @@
 💾 **Analista de Banco de Dados | Python para Análise de Dados**  
-📘 Formada em Análise e Desenvolvimento de SistemasSS<br>
+📘 Formada em Análise e Desenvolvimento de Sistemas<br>
 📊 Dados
   
 
